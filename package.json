@@ -1,0 +1,17 @@
+{
+  "name": "seo-webcrawler",
+  "version": "1.0.0",
+  "description": "A small SEO crawler: paste a URL, it fetches the page, parses meta/OG/Twitter tags with Cheerio, scores basic SEO health, and stores the result in JSON + SQLite.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0",
+    "better-sqlite3": "^11.3.0",
+    "cors": "^2.8.5"
+  }
+}
