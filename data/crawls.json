@@ -1,0 +1,307 @@
+[
+  {
+    "url": "https://www.youtube.com/",
+    "statusCode": 200,
+    "responseTimeMs": 392,
+    "title": "YouTube",
+    "titleLength": 7,
+    "metaDescription": "Enjoy the videos and music that you love, upload original content and share it all with friends, family and the world on YouTube.",
+    "metaDescriptionLength": 129,
+    "metaKeywords": "video, sharing, camera phone, video phone, free, upload",
+    "canonical": "https://www.youtube.com/",
+    "robots": "",
+    "lang": "en-GB",
+    "viewport": "",
+    "charset": "",
+    "favicon": "https://www.youtube.com/s/desktop/cf14c559/img/favicon_32x32.png",
+    "h1Count": 0,
+    "h1Texts": [],
+    "wordCount": 327,
+    "imagesMissingAlt": 0,
+    "internalLinks": 13,
+    "externalLinks": 1,
+    "og": {
+      "title": "YouTube",
+      "description": "",
+      "image": "https://www.youtube.com/img/desktop/yt_1200.png",
+      "url": "",
+      "type": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "seoScore": 82,
+    "issues": [
+      "Title is very short - consider making it more descriptive.",
+      "No <h1> found on the page.",
+      "No responsive viewport meta tag found - may hurt mobile SEO."
+    ],
+    "crawledAt": "2026-07-26T01:33:03.765Z"
+  },
+  {
+    "url": "https://www.swadharma.online/",
+    "statusCode": 200,
+    "responseTimeMs": 718,
+    "title": "SwaDharma | Authentic Puja, Temple Services & Spiritual Gifting– SwaDharma Online",
+    "titleLength": 81,
+    "metaDescription": "SwaDharma offers authentic puja, temple services, teerth yatra, sacred products, and spiritual gifting—all on one trusted, devotional platform.",
+    "metaDescriptionLength": 143,
+    "metaKeywords": "",
+    "canonical": "https://swadharma.online/",
+    "robots": "",
+    "lang": "en",
+    "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+    "charset": "utf-8",
+    "favicon": "//swadharma.online/cdn/shop/files/SwaDharmaLogo_Final_2.png?v=1777266145&width=16",
+    "h1Count": 0,
+    "h1Texts": [],
+    "wordCount": 17884,
+    "imagesMissingAlt": 1,
+    "internalLinks": 115,
+    "externalLinks": 6,
+    "og": {
+      "title": "SwaDharma | Authentic Puja, Temple Services & Spiritual Gifting",
+      "description": "SwaDharma offers authentic puja, temple services, teerth yatra, sacred products, and spiritual gifting—all on one trusted, devotional platform.",
+      "image": "https://swadharma.online/cdn/shop/files/new_a824b5e0-035e-4fa1-8de0-caf67846d3cb.jpg?crop=center&format=webp&height=630&quality=70&v=1777266319&width=1200",
+      "url": "https://swadharma.online/",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "SwaDharma | Authentic Puja, Temple Services & Spiritual Gifting",
+      "description": "SwaDharma offers authentic puja, temple services, teerth yatra, sacred products, and spiritual gifting—all on one trusted, devotional platform.",
+      "image": ""
+    },
+    "seoScore": 84,
+    "issues": [
+      "Title is longer than ~60 characters and may get truncated in search results.",
+      "No <h1> found on the page.",
+      "1 image(s) missing alt text."
+    ],
+    "crawledAt": "2026-07-26T02:00:07.875Z"
+  },
+  {
+    "url": "https://voters.eci.gov.in/",
+    "statusCode": 200,
+    "responseTimeMs": 139,
+    "title": "Citizen Service Portal",
+    "titleLength": 22,
+    "metaDescription": "Citizen Service Portal",
+    "metaDescriptionLength": 22,
+    "metaKeywords": "Citizen Service Portal, voter registration india",
+    "canonical": "",
+    "robots": "",
+    "lang": "",
+    "viewport": "width=device-width,initial-scale=1",
+    "charset": "utf-8",
+    "favicon": "/favicon.ico",
+    "h1Count": 0,
+    "h1Texts": [],
+    "wordCount": 9,
+    "imagesMissingAlt": 0,
+    "internalLinks": 0,
+    "externalLinks": 0,
+    "og": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "",
+      "type": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "seoScore": 77,
+    "issues": [
+      "Meta description is quite short - aim for ~50-160 characters.",
+      "No <h1> found on the page.",
+      "No canonical link tag - can lead to duplicate-content issues.",
+      "Page body has fewer than 300 words - may be considered \"thin content\"."
+    ],
+    "crawledAt": "2026-07-28T03:16:24.527Z"
+  },
+  {
+    "url": "https://www.youtube.com/",
+    "statusCode": 200,
+    "responseTimeMs": 416,
+    "title": "YouTube",
+    "titleLength": 7,
+    "metaDescription": "Enjoy the videos and music that you love, upload original content and share it all with friends, family and the world on YouTube.",
+    "metaDescriptionLength": 129,
+    "metaKeywords": "video, sharing, camera phone, video phone, free, upload",
+    "canonical": "https://www.youtube.com/",
+    "robots": "",
+    "lang": "en-GB",
+    "viewport": "",
+    "charset": "",
+    "favicon": "https://www.youtube.com/s/desktop/ce6b1040/img/favicon_32x32.png",
+    "h1Count": 0,
+    "h1Texts": [],
+    "wordCount": 327,
+    "imagesMissingAlt": 0,
+    "internalLinks": 13,
+    "externalLinks": 1,
+    "og": {
+      "title": "YouTube",
+      "description": "",
+      "image": "https://www.youtube.com/img/desktop/yt_1200.png",
+      "url": "",
+      "type": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "seoScore": 82,
+    "issues": [
+      "Title is very short - consider making it more descriptive.",
+      "No <h1> found on the page.",
+      "No responsive viewport meta tag found - may hurt mobile SEO."
+    ],
+    "crawledAt": "2026-08-03T09:35:08.574Z"
+  },
+  {
+    "url": "https://www.swadharma.online/",
+    "statusCode": 402,
+    "responseTimeMs": 487,
+    "title": "Store unavailable",
+    "titleLength": 17,
+    "metaDescription": "",
+    "metaDescriptionLength": 0,
+    "metaKeywords": "",
+    "canonical": "",
+    "robots": "",
+    "lang": "en",
+    "viewport": "width=device-width, initial-scale=1",
+    "charset": "UTF-8",
+    "favicon": "//cdn.shopify.com/shopifycloud/storefront/assets/favicon-418d2057.png",
+    "h1Count": 2,
+    "h1Texts": [
+      "This store is currently unavailable.",
+      "Did you mean ?"
+    ],
+    "wordCount": 107,
+    "imagesMissingAlt": 0,
+    "internalLinks": 0,
+    "externalLinks": 3,
+    "og": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "",
+      "type": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "seoScore": 50,
+    "issues": [
+      "Page returned HTTP 402 instead of 200.",
+      "Missing meta description.",
+      "Found 2 <h1> tags - best practice is exactly one per page.",
+      "No canonical link tag - can lead to duplicate-content issues.",
+      "Page body has fewer than 300 words - may be considered \"thin content\"."
+    ],
+    "crawledAt": "2026-08-03T09:36:14.064Z"
+  },
+  {
+    "url": "https://www.swadharma.online/",
+    "statusCode": 402,
+    "responseTimeMs": 331,
+    "title": "Store unavailable",
+    "titleLength": 17,
+    "metaDescription": "",
+    "metaDescriptionLength": 0,
+    "metaKeywords": "",
+    "canonical": "",
+    "robots": "",
+    "lang": "en",
+    "viewport": "width=device-width, initial-scale=1",
+    "charset": "UTF-8",
+    "favicon": "//cdn.shopify.com/shopifycloud/storefront/assets/favicon-418d2057.png",
+    "h1Count": 2,
+    "h1Texts": [
+      "This store is currently unavailable.",
+      "Did you mean ?"
+    ],
+    "wordCount": 107,
+    "imagesMissingAlt": 0,
+    "internalLinks": 0,
+    "externalLinks": 3,
+    "og": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "url": "",
+      "type": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "seoScore": 50,
+    "issues": [
+      "Page returned HTTP 402 instead of 200.",
+      "Missing meta description.",
+      "Found 2 <h1> tags - best practice is exactly one per page.",
+      "No canonical link tag - can lead to duplicate-content issues.",
+      "Page body has fewer than 300 words - may be considered \"thin content\"."
+    ],
+    "crawledAt": "2026-08-03T09:45:00.721Z"
+  },
+  {
+    "url": "https://www.swadharma.online/",
+    "statusCode": 200,
+    "responseTimeMs": 1991,
+    "title": "SwaDharma | Authentic Puja, Temple Services & Spiritual Gifting– SwaDharma Online",
+    "titleLength": 81,
+    "metaDescription": "SwaDharma offers authentic puja, temple services, teerth yatra, sacred products, and spiritual gifting—all on one trusted, devotional platform.",
+    "metaDescriptionLength": 143,
+    "metaKeywords": "",
+    "canonical": "https://swadharma.online/",
+    "robots": "",
+    "lang": "en",
+    "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+    "charset": "utf-8",
+    "favicon": "//swadharma.online/cdn/shop/files/SwaDharmaLogo_Final_2.png?v=1777266145&width=16",
+    "h1Count": 0,
+    "h1Texts": [],
+    "wordCount": 15842,
+    "imagesMissingAlt": 1,
+    "internalLinks": 117,
+    "externalLinks": 6,
+    "og": {
+      "title": "SwaDharma | Authentic Puja, Temple Services & Spiritual Gifting",
+      "description": "SwaDharma offers authentic puja, temple services, teerth yatra, sacred products, and spiritual gifting—all on one trusted, devotional platform.",
+      "image": "https://swadharma.online/cdn/shop/files/new_a824b5e0-035e-4fa1-8de0-caf67846d3cb.jpg?crop=center&format=webp&height=630&quality=70&v=1777266319&width=1200",
+      "url": "https://swadharma.online/",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "SwaDharma | Authentic Puja, Temple Services & Spiritual Gifting",
+      "description": "SwaDharma offers authentic puja, temple services, teerth yatra, sacred products, and spiritual gifting—all on one trusted, devotional platform.",
+      "image": ""
+    },
+    "seoScore": 84,
+    "issues": [
+      "Title is longer than ~60 characters and may get truncated in search results.",
+      "No <h1> found on the page.",
+      "1 image(s) missing alt text."
+    ],
+    "crawledAt": "2026-08-03T09:45:46.768Z"
+  }
+]

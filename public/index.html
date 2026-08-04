@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SEO Crawler</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header class="page-header">
+    <h1>🔍 SEO Crawler</h1>
+    <p>Paste a URL. We'll fetch the page and check its titles, meta tags, headings, and more.</p>
+  </header>
+
+  <main class="container">
+
+    <!-- URL input form: the "user clicks a URL" entry point requested -->
+    <section class="card">
+      <form id="crawl-form">
+        <label for="url-input">Page URL</label>
+        <div class="input-row">
+          <input
+            id="url-input"
+            name="url"
+            type="url"
+            placeholder="https://example.com/some-page"
+            required
+          />
+          <button type="submit" id="crawl-btn">Analyze SEO</button>
+        </div>
+      </form>
+      <p id="error-msg" class="error hidden"></p>
+    </section>
+
+    
+    <p id="loading-msg" class="hidden">Crawling the page…</p>
+
+    
+    <section id="results" class="hidden"></section>
+
+   
+    <section class="card">
+      <h2>Recent Crawls</h2>
+      <div id="history-list">Loading history…</div>
+    </section>
+
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
